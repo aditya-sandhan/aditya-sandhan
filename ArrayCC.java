@@ -19,6 +19,6 @@ public class ArrayCC {
 
 
         marks[2] = marks[2] + 5;
-        System.out.println("updated Marks of Maths: " + marks[2]);  
+        System.out.println("updated Marks of Maths: " + marks[2]);   
     }
 }
